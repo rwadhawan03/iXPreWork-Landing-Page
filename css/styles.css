@@ -1,0 +1,62 @@
+body {
+    background-color: rgba(52, 63, 100, 1.3);
+    padding: 90px 90px;
+}
+
+.card {
+    background-color: white;
+    padding: 24px 160px;
+    border-radius: 8px;
+    border-color: #28678e;
+    border-width: 4px;
+    border-style: solid;
+}
+
+.landing {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px #141111;
+    text-decoration: underline;
+}
+
+.container {
+    background-color: rgb(82, 167, 186);
+    padding: 16px 16px;
+    border-radius: 8px;
+    border-color: #28678e;
+    border-width: 4px;
+    border-style: solid;
+}
+
+img {
+    border-style: solid;
+    border-color: #28678e;
+    border-radius: 10px;
+    border-width: 4px;
+    height: 250px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.names {
+    background-color: rgb(37, 142, 165);
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    border-color: #28678e;
+    border-width: 4px;
+    border-style: solid;
+    text-shadow: 1px 1px #141111;
+}
+
+.username {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.info {
+    color: rgb(4, 7, 8);
+    font-weight: bolder;
+}
